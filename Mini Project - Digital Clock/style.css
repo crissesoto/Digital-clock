@@ -1,0 +1,22 @@
+body {
+  background: wheat;
+}
+
+.container {
+  font-size: 3rem;
+  margin: 100px auto;
+  text-align: center;
+  color: thistle;
+}
+.clock {
+  font-size: 4rem;
+  text-align: center;
+  margin: 200px auto;
+  color: whitesmoke;
+  width: 80%;
+}
+
+.clock span {
+  padding: 20px;
+  background-color: thistle;
+}
